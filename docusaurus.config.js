@@ -9,11 +9,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'iTalento Docs',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  tagline: 'Aprende sobre iTalento',
+  favicon: 'img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.italento.shop',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Kanto-Software-Solutions/iTalento-docs',
         },
         blog: false,
         theme: {
@@ -67,12 +67,6 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
         ],
       },
       footer: {
@@ -88,24 +82,28 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/italento_/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/iTalento',
+                href: 'https://twitter.com/italento_',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Más',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/Kanto-Software-Solutions/iTalento',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCvjCcnsGpzyOhQtm9FLoNJg',
               },
             ],
           },

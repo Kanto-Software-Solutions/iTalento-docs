@@ -1,5 +1,7 @@
 ---
 slug: /
+sidebar_label: 'Bienvenido'
+sidebar_position: 0
 ---
 
 # Tutorial Intro
