@@ -42,7 +42,7 @@ Si estás interesado en realizar la solicitud con código, hemos puesto código 
 Por ejemplo este es uno de los códigos que te vas a encontrar durante tu recorrido por la documentación, este código devuelve todas las categorias existentes en iTalento.
 
 ```js
-fetch("https://italento.shop/categories")
+fetch("https://italento.shop/categorias")
   .then((response) => response.json())
   .then((json) => console.log(json));
 ```
