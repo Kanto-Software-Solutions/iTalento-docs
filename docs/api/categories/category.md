@@ -54,6 +54,7 @@ fetch("https://italento.shop/categorias")
             "imgUrl": null,
             "descripcion": null
         }
+        ...
     ]
 }
 ```

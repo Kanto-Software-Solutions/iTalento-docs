@@ -17,7 +17,7 @@ La API de iTalento permite realizar una cantidad de acciones distintas usando c�
 
 Tenemos una lista completa de los puntos finales que están disponibles vía API listados en nuestro [Índice de Referencia], por el momento usaremos este por razones de simplicidad:
 
-* [Buscar Categorías]
+* [Buscar Categorías](../categories/category.md)
 
 ### Paso 2. Escoger una herramienta para hacer tu solicitud
 
@@ -47,7 +47,7 @@ fetch("https://italento.shop/categorias")
   .then((json) => console.log(json));
 ```
 
-:::note
+:::note[Nota]
 
 Si tienes algún problema, consulta la `documentación para desarrolladores` del punto final al que estás realizando la solicitud o crea un issue en nuestro [GitHub](https://github.com/Kanto-Software-Solutions/iTalento-docs/issues) para obtener ayuda. Le ayudaremos a realizar la solicitud correctamente.
 
