@@ -28,7 +28,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="postman" label="Postman" default>
     GET:  `https://italento.shop/categorias`
   </TabItem>
-  <TabItem value="code" label="Código">
+  <TabItem value="code" label="JS">
     ```js
 fetch("https://italento.shop/categorias")
   .then((response) => response.json())
@@ -37,7 +37,7 @@ fetch("https://italento.shop/categorias")
   </TabItem>
 </Tabs>
 
-### Ejemplo de Salida
+### Ejemplo de Respuesta
 
 ```json
 {
@@ -59,7 +59,7 @@ fetch("https://italento.shop/categorias")
 }
 ```
 
-### Parámetros de Salida
+### Parámetros de Respuesta
 
 <table>
   <thead>
@@ -124,7 +124,7 @@ Retorna **unicamente** la información de la categoría a la que pertenece el ID
   <TabItem value="postman" label="Postman" default>
     GET:  `https://italento.shop/categorias/1`
   </TabItem>
-  <TabItem value="code" label="Código">
+  <TabItem value="code" label="JS">
     ```js
 fetch("https://italento.shop/categorias/1")
   .then((response) => response.json())
@@ -133,7 +133,7 @@ fetch("https://italento.shop/categorias/1")
   </TabItem>
 </Tabs>
 
-### Ejemplo de Salida
+### Ejemplo de Respuesta
 
 ```json
 {
@@ -148,7 +148,7 @@ fetch("https://italento.shop/categorias/1")
 }
 ```
 
-### Parámetros de Salida
+### Parámetros de Respuesta
 
 <table>
   <thead>

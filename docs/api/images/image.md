@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="postman" label="Postman" default>
     GET:  `https://italento.shop/imagenes`
   </TabItem>
-  <TabItem value="code" label="Código">
+  <TabItem value="code" label="JS">
     ```js
 fetch("https://italento.shop/imagenes")
   .then((response) => response.json())
@@ -31,7 +31,7 @@ fetch("https://italento.shop/imagenes")
   </TabItem>
 </Tabs>
 
-### Ejemplo de Salida
+### Ejemplo de Respuesta
 
 ```json
 {
@@ -53,7 +53,7 @@ fetch("https://italento.shop/imagenes")
 }
 ```
 
-### Parámetros de Salida
+### Parámetros de Respuesta
 
 <table>
   <thead>
@@ -89,7 +89,7 @@ fetch("https://italento.shop/imagenes")
 
 ## GET /imagenes/id
 
-Retorna **unicamente** la información de la imagen a la que pertenece el ID, en caso de no encontrarse devuelve un ERROR 404.
+Retorna **únicamente** la información de la imagen a la que pertenece el ID, en caso de no encontrarse devuelve un ERROR 404.
 
 ### URL
 
@@ -118,7 +118,7 @@ Retorna **unicamente** la información de la imagen a la que pertenece el ID, en
   <TabItem value="postman" label="Postman" default>
     GET:  `https://italento.shop/imagenes/1`
   </TabItem>
-  <TabItem value="code" label="Código">
+  <TabItem value="code" label="JS">
     ```js
 fetch("https://italento.shop/imagenes/1")
   .then((response) => response.json())
@@ -127,7 +127,7 @@ fetch("https://italento.shop/imagenes/1")
   </TabItem>
 </Tabs>
 
-### Ejemplo de Salida
+### Ejemplo de Respuesta
 
 ```json
 {
@@ -142,7 +142,7 @@ fetch("https://italento.shop/imagenes/1")
 }
 ```
 
-### Parámetros de Salida
+### Parámetros de Respuesta
 
 <table>
   <thead>
