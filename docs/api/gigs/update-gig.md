@@ -29,7 +29,7 @@ Endpoint para actualizar una publicación especifica en italento.shop.
     <tr>
       <td><code>id</code></td>
       <td>int</td>
-      <td>Identificador único asignado a la categoría a solicitar.</td>
+      <td>Identificador único asignado a la publicación a editar.</td>
     </tr>
   </tbody>
 </table>

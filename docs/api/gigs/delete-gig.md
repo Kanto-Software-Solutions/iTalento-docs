@@ -41,11 +41,29 @@ La función de borrar solo está disponible si eres el propietario de la publica
     <tr>
       <td><code>id</code></td>
       <td>int</td>
-      <td>Identificador único asignado a la categoría a solicitar.</td>
+      <td>Identificador único asignado a la publicación a borrar.</td>
     </tr>
   </tbody>
 </table>
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="postman" label="Postman" default>
+    DELETE:  `https://italento.shop/publicaciones/1`
+  </TabItem>
+  <TabItem value="code" label="JS">
+    ```js
+    fetch("https://italento.shop/publicaciones/1", { 
+            method: 'DELETE', 
+            headers: { 
+                'Content-type': 'application/json'
+            } 
+        });
+```
+  </TabItem>
+</Tabs>
 
 ### Respuesta
 
