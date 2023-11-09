@@ -9,13 +9,13 @@ Bienvenido a iTalento, ahora veremos tu página de Perfil.
 
 En iTalento, tu perfil funciona de hub principal para todas tus actividades en iTalento, inicia sesión en tu cuenta de Fiverr para acceder a tu perfil. Una vez dentro, haz clic en tu avatar o nombre de usuario en la esquina superior derecha de la pantalla para acceder a tu perfil.:
 
-![]
+![Perfil](img/perfil.png)
 
 ## Secciones Principales del Perfil
 
 ### 1. **Información General**
 
-En la parte superior, encontrarás información general sobre tu perfil. Esto incluye tu foto de perfil, nombre de usuario, tu descripción, país de origen y un resumen de tus estadísticas, como el número de pedidos completados y la valoración promedio.
+En la columna izquierda, encontrarás información general sobre tu perfil. Esto incluye tu foto de perfil, nombre de usuario, tu descripción, país de origen y un resumen de tus estadísticas, como el número de pedidos completados y la valoración promedio.
 
 ### 2. **Biografía y Descripción**
 
