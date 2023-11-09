@@ -23,7 +23,13 @@ Para registrarte en iTalento es necesario aceptar los [términos y condiciones](
 
 Luego de esto, podrás registarte usando un correo electrónico, o usando la opción de Google. Al terminar de ingresar los datos (o de iniciar con Google), se te redirigirá al formulario de registro en iTalento:
 
-![](.img/../img/auth0-login-box.png)
+![](./img/registro.png)
+
+:::warning[IMPORTANTE]
+
+Si te registras con el correo electrónico, es necesario que confirmes tu correo electrónico, revisando tu bandeja de entrada y dando clic al link de verificación.
+
+:::
 
 Para tener la mejor experiencia de usuario dentro de iTalento es necesario llenar la mayoría de los campos, al finalizar, confirma el registro y felicidades!, ya eres parte de iTalento.
 

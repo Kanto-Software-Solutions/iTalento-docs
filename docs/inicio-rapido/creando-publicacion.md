@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Creando tu primera publicación
 
-Ahora crearemos tu primera publicación.
+Tu principal forma de ingresos en iTalento son las publicaciones, hoy te enseñaremos a crear una publicación
 
 ## Requisitos
 
@@ -17,6 +17,17 @@ Ahora crearemos tu primera publicación.
 Para crear tu primera publicación necesitas dirigirte a el dashboard de publicaciones, hacer click en crear publicación y completar el formulario:
 
 ![]
+
+### Completa la Información de tu Gig (publicación)
+
+- **Título del Gig:** Ingresa un título descriptivo y atractivo para tu servicio. Por ejemplo, "Diseño de Logotipos Profesionales".
+- **Categoría y Subcategoría:** Selecciona la categoría y subcategoría que mejor describa tu servicio, como "Diseño Gráfico".
+- **Descripción del Servicio:** Describe detalladamente lo que ofreces. Explica tus habilidades, experiencia, y lo que el cliente puede esperar.
+- **Etiquetas (Tags):** Agrega etiquetas relevantes que describan tu servicio, como "logotipo", "diseño", "marca", etc.
+- **Requisitos del Comprador:** Especifica cualquier información o archivo que necesites del comprador para iniciar el trabajo.
+- **Precios y Plazos de Entrega:** Establece los precios para diferentes paquetes que ofreces y los plazos de entrega para cada paquete.
+- **Galería de Imágenes y Videos:** Agrega imágenes y videos relevantes que muestren tu trabajo o proceso creativo.
+- **Detalles Adicionales:** Completa cualquier otro detalle solicitado, como habilidades requeridas, instrucciones adicionales, etc.
 
 ## Agregar Imágenes
 
