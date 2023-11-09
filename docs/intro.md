@@ -16,6 +16,10 @@ Comienza explorando la aplicación y todas las caracteristicas que tenemos para 
 
 * [Inicio de Sesión y Registro](./inicio-rapido/login.md)
 * [Perfil](./inicio-rapido/perfil.md)
+* [Creando tu primera publicación](./inicio-rapido/creando-publicacion.md)
+* [Realizando tu primer pedido](./inicio-rapido/realizando-pedido.md)
+* [Reseñar](./inicio-rapido/reviews.md)
+* [Reportar](./inicio-rapido/report.md)
 
 ## API
 
