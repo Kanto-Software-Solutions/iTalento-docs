@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Bienvenido a iTalento, ahora veremos tu página de Perfil.
 
-En iTalento, tu perfil funciona de hub principal para todas tus actividades en iTalento, inicia sesión en tu cuenta de Fiverr para acceder a tu perfil. Una vez dentro, haz clic en tu avatar o nombre de usuario en la esquina superior derecha de la pantalla para acceder a tu perfil.:
+En iTalento, tu perfil funciona de hub principal para todas tus actividades en iTalento, inicia sesión en tu cuenta de iTalento para acceder a tu perfil. Una vez dentro, haz clic en tu avatar o nombre de usuario en la esquina superior derecha de la pantalla para acceder a tu perfil.:
 
 ![Perfil](img/perfil.png)
 
@@ -19,7 +19,7 @@ En la columna izquierda, encontrarás información general sobre tu perfil. Esto
 
 ### 2. **Biografía y Descripción**
 
-Aquí puedes agregar una biografía o descripción que detalla tus habilidades, experiencia y lo que ofreces en Fiverr. Esta sección permite a los compradores conocerte mejor y entender tus servicios.
+Aquí puedes agregar una biografía o descripción que detalla tus habilidades, experiencia y lo que ofreces en iTalento. Esta sección permite a los compradores conocerte mejor y entender tus servicios.
 
 ### 3. **Habilidades y Servicios**
 
