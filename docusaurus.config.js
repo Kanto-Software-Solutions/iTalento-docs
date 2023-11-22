@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'API',
-                to: '/category/api',
+                to: '/category/inicio-rápido',
               },
             ],
           },

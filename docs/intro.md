@@ -20,7 +20,3 @@ Comienza explorando la aplicación y todas las caracteristicas que tenemos para 
 * [Realizando tu primer pedido](./inicio-rapido/realizando-pedido.md)
 * [Reseñar](./inicio-rapido/reviews.md)
 * [Reportar](./inicio-rapido/report.md)
-
-## API
-
-También puedes explorar en contenido de nuestra API en el [índice](https://docs.italento.shop/category/api) disponible.
